@@ -1,0 +1,9 @@
+subject,question_order,n_prompt,resp_order,resp_id,model_preference,subject_preference,agreement_subject_model,start_sample,end_sample,start_time,end_time,duration_s,eeg_path
+Sub12,1,7,1,7.2,,,,34475,41436,137.9,165.744,27.844,/data/alop/cognitive-mllm/data/EEG/MMLLM_12.vhdr
+Sub12,1,7,2,7.1,,,,49503,50660,198.012,202.64,4.628,/data/alop/cognitive-mllm/data/EEG/MMLLM_12.vhdr
+Sub12,2,25,1,25.2,,,,58763,73726,235.052,294.904,59.852,/data/alop/cognitive-mllm/data/EEG/MMLLM_12.vhdr
+Sub12,2,25,2,25.1,,,,76387,91993,305.548,367.972,62.424,/data/alop/cognitive-mllm/data/EEG/MMLLM_12.vhdr
+Sub12,3,1,1,1.1,,,,98811,100193,395.244,400.772,5.528,/data/alop/cognitive-mllm/data/EEG/MMLLM_12.vhdr
+Sub12,3,1,2,1.2,,,,101853,108459,407.412,433.836,26.424,/data/alop/cognitive-mllm/data/EEG/MMLLM_12.vhdr
+Sub12,4,8,1,8.1,,,,124268,127542,497.072,510.168,13.096,/data/alop/cognitive-mllm/data/EEG/MMLLM_12.vhdr
+Sub12,4,8,2,8.2,,,,130533,132084,522.132,528.336,6.204,/data/alop/cognitive-mllm/data/EEG/MMLLM_12.vhdr

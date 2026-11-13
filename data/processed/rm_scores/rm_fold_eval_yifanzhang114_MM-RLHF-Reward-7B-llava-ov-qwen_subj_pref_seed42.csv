@@ -1,0 +1,4 @@
+seed,fold,pref,label_col,n_test_keys,acc,bal_acc,split_file
+42,1,subj_pref,subject_preference,70,0.5571428571428572,0.5583333333333333,/data/alop/cognitive-mllm/results/eeg/splits/dual_split_seed42_fold01.json
+42,2,subj_pref,subject_preference,54,0.5925925925925926,0.5874999999999999,/data/alop/cognitive-mllm/results/eeg/splits/dual_split_seed42_fold02.json
+42,3,subj_pref,subject_preference,49,0.5510204081632653,0.5416666666666666,/data/alop/cognitive-mllm/results/eeg/splits/dual_split_seed42_fold03.json

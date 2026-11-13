@@ -1,0 +1,37 @@
+{
+  "data_paths": {
+    "stimuli": "data/stimuli/",
+    "labels": "data/labels/",
+    "behavior": "data/labels/behavior/",
+    "user_preferece": "data/labels/users_preference/",
+    "eeg": "data/EEG/",
+    "processed_eeg": "data/processed/eeg/",
+    "results_behavior": "results/behavior/",
+    "rm_scores": "data/processed/rm_scores/",
+    "rm_embeddings": "data/processed/rm_embeddings/"
+  },
+  "results_paths": {
+    "results_eeg": "results/eeg/",
+    "results_behavior": "results/behavior/",
+    "results_reward": "results/reward/",
+    "results_reward_features": "results/reward_features/"
+  },
+  "results": {
+    "reward": "results/reward/",
+    "reward_dual": "results/reward_crosssubject/",
+    "reward_features": "results/reward_features/",
+    "reward_features_dual": "results/reward_features_crosssubjects/"
+  },
+  "data_files": {
+    "processed_eeg": "eeg_features.csv",
+    "trials_info_labels": "trials_info_labels.csv"
+  },
+  "classifier_names": [
+    "Logistic Regression",
+    "Linear SVM",
+    "Random Forest",
+    "Gradient Boosting",
+    "KNN",
+    "Naive Bayes"
+  ]
+}
