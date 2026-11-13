@@ -1,0 +1,66 @@
+BrainVision Data Exchange Marker File Version 1.0
+
+[Common Infos]
+Codepage=UTF-8
+DataFile=MMLLM_12.eeg
+
+[Marker Infos]
+
+
+
+
+Mk1=New Segment,,1,1,0,20250904132428249438
+Mk2=Stimulus,S  1,3919,1,0
+Mk3=Stimulus,S  2,22733,1,0
+Mk4=Stimulus,S  3,23376,1,0
+Mk5=Stimulus,S  4,34217,1,0
+Mk6=Stimulus,S  5,34476,1,0
+Mk7=Stimulus,S  6,41437,1,0
+Mk8=Stimulus,S  7,41597,1,0
+Mk9=Stimulus,S  4,49246,1,0
+Mk10=Stimulus,S  5,49504,1,0
+Mk11=Stimulus,S  6,50661,1,0
+Mk12=Stimulus,S  7,50711,1,0
+Mk13=Stimulus,S  8,52948,1,0
+Mk14=Stimulus,S  2,54629,1,0
+Mk15=Stimulus,S  3,54766,1,0
+Mk16=Stimulus,S  4,58511,1,0
+Mk17=Stimulus,S  5,58764,1,0
+Mk18=Stimulus,S  6,73727,1,0
+Mk19=Stimulus,S  7,73780,1,0
+Mk20=Stimulus,S  4,76129,1,0
+Mk21=Stimulus,S  5,76388,1,0
+Mk22=Stimulus,S  6,91994,1,0
+Mk23=Stimulus,S  7,92048,1,0
+Mk24=Stimulus,S  8,93893,1,0
+Mk25=Stimulus,S  2,94529,1,0
+Mk26=Stimulus,S  3,94664,1,0
+Mk27=Stimulus,S  4,98563,1,0
+Mk28=Stimulus,S  5,98812,1,0
+Mk29=Stimulus,S  6,100194,1,0
+Mk30=Stimulus,S  7,100243,1,0
+Mk31=Stimulus,S  4,101595,1,0
+Mk32=Stimulus,S  5,101854,1,0
+Mk33=Stimulus,S  6,108460,1,0
+Mk34=Stimulus,S  7,108510,1,0
+Mk35=Stimulus,S  8,110234,1,0
+Mk36=Stimulus,S  2,110985,1,0
+Mk37=Stimulus,S  3,111114,1,0
+Mk38=Stimulus,S  4,124016,1,0
+Mk39=Stimulus,S  5,124269,1,0
+Mk40=Stimulus,S  6,127543,1,0
+Mk41=Stimulus,S  7,127593,1,0
+Mk42=Stimulus,S  4,130278,1,0
+Mk43=Stimulus,S  5,130534,1,0
+Mk44=Stimulus,S  6,132085,1,0
+Mk45=Stimulus,S  7,132135,1,0
+Mk46=Stimulus,S  8,134651,1,0
+Mk47=Stimulus,S  2,135094,1,0
+Mk48=Stimulus,S  3,135222,1,0
+Mk49=Comment,USB Error - 13:33:58.417098,142545,1,0
+Mk50=New Segment,USB Connected - 14:00:58.628000,142546,1,0,20250904140058628000
+Mk51=Response,R 15,142546,1,0
+Mk52=Stimulus,S 15,142546,1,0
+Mk53=New Segment,LostSamples: 804,142551,1,0,20250904140058728401
+Mk54=Response,R 15,328880,1,0
+Mk55=Stimulus,S 15,328880,1,0
